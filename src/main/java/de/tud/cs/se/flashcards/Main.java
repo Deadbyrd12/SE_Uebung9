@@ -113,7 +113,6 @@ final class Main {
                     documentOpened = true;
             }
         }
-		systemIsShit.exe;
 
         if (!documentOpened) {
             // Either the user didn't specify a document on start-up or or all
